@@ -13,13 +13,13 @@
 ### 知识体系
 同领域的知识点相互牵连构成知识体系。掌握知识体系不但要对每个知识点都达到应达到的层级，还应对它们的关系有足够的理解
 
-比如说高中数学中，三角函数会有以下公式
+比如说高中数学中，三角函数会有以下公式（基本定义的不在这里）
 1. 诱导公式
 2. 和角公式，如![1](http://latex.codecogs.com/svg.latex?\sin(a+b) = \sin a \cos b + \cos a \sin b)
 3. 倍角/半角公式
 4. 万能公式
 5. 和差化积，积化和差公式
-6. 其他公式（如 ![2](http://latex.codecogs.com/svg.latex? a \sin \phi + b \cos \phi = \sqrt{a^2+b^2} \sin(\phi + \theta)) ）
+6. 正弦、余弦公式其他公式（如 ![2](http://latex.codecogs.com/svg.latex? a \sin \phi + b \cos \phi = \sqrt{a^2+b^2} \sin(\phi + \theta)) ）
 
 如果我们仅仅学这些公式自己，一方面公式推导本身的技巧掌握不足（譬如仅用![1](http://latex.codecogs.com/svg.latex?\sin(a+b) = \sin a \cos b + \cos a \sin b) 这个公式就可以推出其他所有公式，推导过程中就包含不少常见技巧的运用），另一方面，在实际运用中，还需要足够的意识，知道在某个节点应该使用哪一个公式（做题目的时候，不可能会有人提示说第一步用诱导公式），往哪个方向推导，一般来说需要有足够的意识。不掌握三角函数的体系，不去刷题训练，一般很难有这样的意识。
 
